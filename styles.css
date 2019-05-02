@@ -1,4 +1,4 @@
-* {
+body {
     margin: 10px;
 }
 
@@ -6,11 +6,12 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-left: 0;
 }
 
 article {
     width: 100px;
     height: 200px;
-    background-color: grey;
+    background: grey;
     margin: 10px;
 }
