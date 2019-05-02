@@ -5,7 +5,7 @@
 main {
     display: flex;
     flex-wrap: wrap;
-    float: left;
+    justify-content: center;
 }
 
 article {
