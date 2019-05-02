@@ -14,7 +14,3 @@ article {
     background-color: grey;
     margin: 10px;
 }
-
-article:last-child {
-    margin-right: 0px;
-}
